@@ -8,3 +8,5 @@
 ## Code 3:- Pie Charts Colors
 ![image](https://github.com/user-attachments/assets/1db68ef1-2d42-48de-bc8e-e5e869769281)
 
+## Code 4:- Legend with Header
+![image](https://github.com/user-attachments/assets/f55e10af-8907-4240-9c91-a229994bc7f0)
